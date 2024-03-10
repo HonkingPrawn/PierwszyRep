@@ -1,0 +1,5 @@
+Photoshop 1.0 was the first ever version of Adobe Photoshop to be created. 
+Originally a simple program (named Display) created to display grayscale graphics, 
+John Knoll influenced his brother, Thomas Knoll, to turn Display into a full image editing application which they named Photoshop. 
+Development on Photoshop 1.0 began in 1987 and was released by Adobe in 1990 for Macintosh systems. 
+The program was used to edit and manipulate images that had been digitally transferred onto a computer via a scanner.

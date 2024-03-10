@@ -12,4 +12,5 @@ int b= 4;
 int dzielnik= 2;
 
 int suma= a+b;
-double waga= 9.0;
+double waga= 1.0;
+double waga= 2.0;

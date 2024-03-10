@@ -6,3 +6,11 @@ The program was used to edit and manipulate images that had been digitally trans
 
 Photoshop CS2 (code named "Space Monkey") was the 9th major version of Photoshop, released by Adobe Systems for Macintosh and Windows on April 4, 
 2005. It was also included as part of Adobe Creative Suite 2 and Creative Suite Production Studio.
+
+End of support
+On December 15, 2012, activation servers for CS2 applications were shut down.
+ Registered users who wished to continue using Photoshop CS2 after that date could download a new installer 
+from Adobe with a new serial number that could be activated without contacting a server.[1] 
+Some users and websites had interpreted that Adobe was giving CS2 applications away for free, 
+but Adobe clarified that these were only for registered users and required a valid existing serial number to access downloads.[2][3] 
+In May 2019, Adobe stopped providing CS2 downloads entirely.[4]
